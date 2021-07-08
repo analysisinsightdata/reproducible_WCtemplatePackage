@@ -7,3 +7,5 @@ To install the development version of this package from Github, you may use the 
 
 REALITY CHECK
 This probably is not working if you are following along the course materials because of the Github main vs master change in 2021 that didn't get updated in other documentation and packages.  Sorry.
+
+FFI: https://github.com/github/renaming
